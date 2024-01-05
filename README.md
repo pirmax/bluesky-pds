@@ -342,7 +342,7 @@ You can check if your server is online and healthy by requesting the healthcheck
 
 ```bash
 curl https://example.com/xrpc/_health
-{"version":"0.2.2-beta.2"}
+{"version":"0.3.10"}
 ```
 
 ### Obtain your PDS admin password
